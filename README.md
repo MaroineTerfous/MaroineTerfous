@@ -11,11 +11,11 @@ Passionné depuis mon adolescence par la Tech et le Hardware, ce côté "geek" m
 Passionné depuis mon adolescence par la Tech et le Hardware, ce côté "geek" m'a donné ce goût pour le coding et la programmation. En 2021, j'ai donc decidé de prendre un virage décisif dans ma vie: démissionner et quitter mon emploi pour vivre ma passion et réaliser mes rêves [...]
 
 ## 🖥️ Mon quotidien de développeur
-- 🔭 Je **code** tous les jours.
-- 🌱 J'**apprends de nouveaux softs skills** régulièrement.
-- 👯 J'aime **résoudre des problèmes**.
-- ⚡ Je fais du **sport**, **VTT** et **je lis**.
-- 📫 Proposez-moi **vos projets**.
+- **Coder**.
+- **Apprendre de nouveaux softs skills**.
+- **Résoudre des problèmes**.
+- Faire du **sport**, de la **lecture** et rouler à **VTT**.
+- Réaliser de nouveaux **projets**.
 
 ## ♾️ Mes stats GitHub
 
